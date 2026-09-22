@@ -162,7 +162,3 @@ the real window with 4x MSAA and a 3.3 core profile.
 
 An earlier ASCII version renders the same three ideas into a text console with a
 depth buffer and truecolour escape codes. Not included here.
-
----
-
-Описание на русском: [README.ru.md](README.ru.md)
